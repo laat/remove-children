@@ -1,0 +1,27 @@
+{
+  "name": "remove-children",
+  "version": "1.0.0",
+  "description": "Remove children from DOM-node",
+  "main": "index.js",
+  "scripts": {
+    "test": "readme-assert --require './test-setup.js'"
+  },
+  "keywords": [
+    "browser",
+    "dom"
+  ],
+  "author": {
+    "name": "Sigurd Fosseng",
+    "email": "sigurd@fosseng.net",
+    "url": "http://laat.io"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/laat/remove-children.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "jsdom": "^8.3.1",
+    "readme-assert": "^2.1.2"
+  }
+}
