@@ -1,6 +1,6 @@
 {
   "name": "remove-children",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Remove children from DOM-node",
   "main": "index.js",
   "scripts": {
