@@ -1,5 +1,5 @@
 # remove-children
-[![Build Status](https://travis-ci.org/laat/remove-children.svg?branch=master)](https://travis-ci.org/laat/unindent-lines)
+[![Build Status](https://travis-ci.org/laat/remove-children.svg?branch=master)](https://travis-ci.org/laat/remove-children)
 
 > Remove children from DOM-node
 
