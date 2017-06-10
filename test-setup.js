@@ -1,3 +1,4 @@
-var jsdom = require('jsdom');
-global.document = jsdom.jsdom('<!doctype html><html><body></body></html>');
-global.window = document.parentWindow;
+var JSDOM = require('jsdom').JSDOM;
+var dom = new JSDOM('<!doctype html><html><body></body></html>');
+global.document = dom.window.document;
+global.window = dom.window;
