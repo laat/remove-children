@@ -4,7 +4,7 @@
   "description": "Remove children from DOM-node",
   "main": "index.js",
   "scripts": {
-    "test": "readme-assert --require './test-setup.js'"
+    "#test": "readme-assert --require './test-setup.js'"
   },
   "keywords": [
     "browser",
