@@ -21,7 +21,7 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "jsdom": "^16.0.0",
+    "jsdom": "^17.0.0",
     "readme-assert": "^6.0.1"
   }
 }
